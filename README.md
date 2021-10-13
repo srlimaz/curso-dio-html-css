@@ -29,3 +29,12 @@ img: tag usada para inserir imagem.
 ​	src="img/avatar.jpg": guarda o caminho para a imagem, dentro do próprio site ou de outro lugar.
 
 ​	alt="Foto de Fulano": mostra descrição da foto quando ela não é carregada e é usada por leitores de tela para mostrar ao usuário oque ela significa.
+
+ul: representa uma lista, onde a ordem da lista não é importante.
+
+ol: também representa uma lista, e a ordem da lista é importante, é representado por números, letras e algarismos romanos.
+
+li: é um item dessa lista.
+
+
+
