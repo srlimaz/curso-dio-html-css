@@ -1,4 +1,4 @@
-# HTML
+# HTML/CSS
 
 **ELEMENTOS**
 
@@ -36,5 +36,19 @@ ol: também representa uma lista, e a ordem da lista é importante, é represent
 
 li: é um item dessa lista.
 
+No html determinamos o ID e classe, por 'id, class', e no css '#' e '.', respectivamente. O id só pode ser usado uma vez na página.
 
+**BOX MODEL**
+
+O navegador representa cada elemento html como uma caixa retangular, que é chamado de 'box model' e com o css é possível altera-la.
+
+![](C:\Users\alvar\OneDrive\Ambiente de Trabalho\Programação\html,css\curso dio html-css\box_model.png)
+
+_MARGIN_:São os espaçamentos entre os elementos.
+
+_Border_: Circunda o 'padding' e o conteúdo, e é possível alterar a aparência dela, como largura e cor.
+
+_Padding_: É o espaçamento entre a borda e o conteúdo. 
+
+_Content_: É o que o seu 'bloco' representa, um texto, uma imagem, etc.
 
